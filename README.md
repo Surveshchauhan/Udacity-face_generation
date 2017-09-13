@@ -1,4 +1,4 @@
-# This is the last ptoject undder Udacity Deep Learning Nanodegree
+# This is the last ptoject under Udacity Deep Learning Nanodegree
 # I have used Floyd deep learning framework to train the model
 ## use the below code
 ### floyd login
